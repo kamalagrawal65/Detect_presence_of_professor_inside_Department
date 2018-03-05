@@ -1,0 +1,2 @@
+1. Fake face detection
+2. Long distance then may be different person, solve this for real time.
